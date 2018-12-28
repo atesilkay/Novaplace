@@ -6,5 +6,8 @@ namespace NovaPlace.Domain
     {
         public void Test()
         { }
+
+        public void Test()
+        { }
     }
 }
