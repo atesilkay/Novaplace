@@ -9,5 +9,8 @@ namespace NovaPlace.Domain
 
         public void Test2()
         { }
+
+        public void Test3()
+        { }
     }
 }
